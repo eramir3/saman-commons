@@ -13,8 +13,6 @@ class Customer extends Authenticatable
 {
     use HasFactory, Notifiable, HashableId;
 
-    protected $connection = 'ecom';
-
     /**
      * The attributes that are mass assignable.
      *
