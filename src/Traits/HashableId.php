@@ -2,7 +2,7 @@
 
 namespace Saman\Traits;
 
-use App\Utils\Hasher;
+use Saman\Utils\Hasher;
 
 trait HashableId 
 {

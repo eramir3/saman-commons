@@ -2,7 +2,7 @@
 
 namespace Saman\Utils;
 
-use App\Enums\NotificationEnum;
+use Saman\Enums\NotificationEnum;
 
 class Notifier
 {

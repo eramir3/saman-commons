@@ -2,8 +2,8 @@
 
 namespace Saman\Models;
 
-use App\Models\Product;
-use App\Traits\HashableId;
+use Saman\Models\Product;
+use Saman\Traits\HashableId;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

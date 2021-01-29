@@ -2,7 +2,7 @@
 
 namespace Saman\Models;
 
-use App\Traits\HashableId;
+use Saman\Traits\HashableId;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
