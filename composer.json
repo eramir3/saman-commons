@@ -15,7 +15,8 @@
             "Saman\\Models\\": "src\\Models",
             "Saman\\Enums\\": "src\\Enums",
             "Saman\\Traits\\": "src\\Traits",
-            "Saman\\Utils\\": "src\\Utils"
+            "Saman\\Utils\\": "src\\Utils",
+            "Saman\\migrations\\": "src\\migrations"
         }
     }
 }
