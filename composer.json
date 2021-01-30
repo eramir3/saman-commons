@@ -12,11 +12,11 @@
     ],
     "autoload": {
         "psr-4": {
-            "Saman\\Models\\": "src\\Models",
-            "Saman\\Enums\\": "src\\Enums",
-            "Saman\\Traits\\": "src\\Traits",
-            "Saman\\Utils\\": "src\\Utils",
-            "Saman\\migrations\\": "src\\migrations"
+            "Saman\\Models\\": "app\\Models",
+            "Saman\\Enums\\": "app\\Enums",
+            "Saman\\Traits\\": "app\\Traits",
+            "Saman\\Utils\\": "app\\Utils",
+            "Saman\\migrations\\": "database\\migrations"
         }
     }
 }
